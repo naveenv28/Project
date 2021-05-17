@@ -5,8 +5,10 @@ import java.util.*;
 public class Program {
 	public static void main(String[] args) {
 		System.out.println("Naveen Task");
-		
-		System.out.println("N Task2");
+  
+		System.out.println("kumar Task");
+
+  System.out.println("N Task2");
 		System.out.println("Array elements are added in List");
 		int a[] = { 10, 20, 10, 20, 30, 43, 2, 34, 52, 12, 98 };
 		for (int i = 0; i < a.length; i++) {
